@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on itzKavishka</title>
-    <link>http://localhost:1313/categories/linux/</link>
+    <link>https://itzkavishka.github.io/categories/linux/</link>
     <description>Recent content in Linux on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Dec 2023 02:03:32 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzkavishka.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Clean Up a Debian OS</title>
-      <link>http://localhost:1313/posts/linux/how-to-clean-up-a-debian-os/</link>
+      <link>https://itzkavishka.github.io/posts/linux/how-to-clean-up-a-debian-os/</link>
       <pubDate>Sun, 24 Dec 2023 02:03:32 +0530</pubDate>
-      <guid>http://localhost:1313/posts/linux/how-to-clean-up-a-debian-os/</guid>
+      <guid>https://itzkavishka.github.io/posts/linux/how-to-clean-up-a-debian-os/</guid>
       <description>Introduction: Debian, known for its stability and reliability, can benefit from occasional cleanup to free up disk space and enhance system performance. In this guide, we&amp;rsquo;ll walk through essential steps to tidy up your Debian OS. Update and Upgrade: Keeping your system up-to-date is crucial. Run the following commands to ensure you have the latest software versions:
 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
     </item>

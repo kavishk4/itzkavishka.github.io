@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on itzKavishka</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://itzkavishka.github.io/tags/</link>
     <description>Recent content in Tags on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 22:09:40 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzkavishka.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General</title>
-      <link>http://localhost:1313/tags/general/</link>
+      <link>https://itzkavishka.github.io/tags/general/</link>
       <pubDate>Sun, 09 Jun 2024 22:09:40 +0530</pubDate>
-      <guid>http://localhost:1313/tags/general/</guid>
+      <guid>https://itzkavishka.github.io/tags/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://itzkavishka.github.io/tags/windows/</link>
       <pubDate>Sun, 09 Jun 2024 22:09:40 +0530</pubDate>
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://itzkavishka.github.io/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>How-To</title>
-      <link>http://localhost:1313/tags/how-to/</link>
+      <link>https://itzkavishka.github.io/tags/how-to/</link>
       <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/how-to/</guid>
+      <guid>https://itzkavishka.github.io/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Powershell</title>
-      <link>http://localhost:1313/tags/powershell/</link>
+      <link>https://itzkavishka.github.io/tags/powershell/</link>
       <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/powershell/</guid>
+      <guid>https://itzkavishka.github.io/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
       <title>Debian</title>
-      <link>http://localhost:1313/tags/debian/</link>
+      <link>https://itzkavishka.github.io/tags/debian/</link>
       <pubDate>Sun, 24 Dec 2023 02:03:32 +0530</pubDate>
-      <guid>http://localhost:1313/tags/debian/</guid>
+      <guid>https://itzkavishka.github.io/tags/debian/</guid>
       <description></description>
     </item>
   </channel>

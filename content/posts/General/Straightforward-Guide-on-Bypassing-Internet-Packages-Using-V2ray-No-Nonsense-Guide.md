@@ -48,10 +48,7 @@ Before we begin, makesure you have these following things in line:
  ### How To Install V2Ray On Your Windows PC ? 
 * First Head towards to Github and download V2Ray Software     
 **[Link](https://github.com/2dust/v2rayN)** (**V2rayN-With-Core.zip**)
+
 Head towards the link and download latest release.
 
-![V2Ray_1](/content/images/2024/V2Ray/V2Ray_1.png)
-
-![V2Ray_2](/content/images/2024/V2Ray/V2Ray_2.png)
-
-
+- ![image](/content/images/2024/V2Ray/V2Ray_1.svg)

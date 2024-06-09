@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on itzKavishka</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://itzkavishka.github.io/categories/</link>
     <description>Recent content in Categories on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jan 2024 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzkavishka.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/categories/windows/</link>
+      <link>https://itzkavishka.github.io/categories/windows/</link>
       <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/categories/windows/</guid>
+      <guid>https://itzkavishka.github.io/categories/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
+      <link>https://itzkavishka.github.io/categories/linux/</link>
       <pubDate>Sun, 24 Dec 2023 02:03:32 +0530</pubDate>
-      <guid>http://localhost:1313/categories/linux/</guid>
+      <guid>https://itzkavishka.github.io/categories/linux/</guid>
       <description></description>
     </item>
   </channel>
