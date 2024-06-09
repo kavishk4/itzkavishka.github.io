@@ -32,7 +32,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Today, We're Going to Talk About Utilizing V2Ray to Overcome ISP Data Package Restrictions, Especially for **Zoom Conferencing Package**.
+Here's how to Utilizing V2Ray to overcome ISP Data Package Restrictions, Especially for **Zoom Conferencing Package**.
 
 ### What Is V2Ray ?
 
