@@ -153,3 +153,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+
+### How to create a new post using hugo commands?
+  # hugo new --kind post posts/general/Post-Title.md
