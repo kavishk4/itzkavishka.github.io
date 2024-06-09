@@ -80,7 +80,7 @@ If all went well,This section will appear.
 ![V2RaySoftware](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLbIIO20SltwdiDnT2oYqnoD7iGcmrYHtGrM9mX0NAILyY6YnpVkJq_1GThzUrb45aOED7N9D5xVisct6_S-nDe9sBN9Eve_kvzVNk27ot1B0py9-Iq3am5OHtB2oiQCba-jG0YJ9mXsl1mirAcqaKfkQ18zFiLq9Rf3XNdXfpn0VAkEQlHMImO96gAhF/s883/Screenshot%20(56).png)
 
 
-#### - The Double Click On that section & Change these things :
+#### - Then Double Click On that section & Change these things :
 
 1. Camouflage Type     | None
 2. Camouflage Domain   | **st2.zoom.us** (If you are attempting to bypass a WhatsApp package, use www.whatsapp.com, etc. Currently, I'm trying to bypass a video conferencing data package from zoom.us. If the domain is not working, try subdomains belonging to the same provider.)
