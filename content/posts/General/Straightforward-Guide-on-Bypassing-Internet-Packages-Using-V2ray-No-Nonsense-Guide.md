@@ -42,9 +42,16 @@ Before we begin, makesure you have these following things in line:
 
 - A Windows computer with administrative access
 - Basic knowledge of command-line interfaces
-- A V2ray server (self-hosted or a subscription from a service provider) -- There are free services like [FastSSH](www.fastssh.com),[VPN Jantit](www.vpnjantit.com)
+- A V2ray server (self-hosted or a subscription from a service provider) -- There are free services like [FastSSH](https://www.fastssh.com), [VPN Jantit](https://www.vpnjantit.com)
 - V2ray client software for Windows
 
  ### How To Install V2Ray On Your Windows PC ? 
-* First Head towards 
+* First Head towards to Github and download V2Ray Software     
+**[Link](https://github.com/2dust/v2rayN)** (**V2rayN-With-Core.zip**)
+Head towards the link and download latest release.
+
+![V2Ray_1](/content/images/2024/V2Ray/V2Ray_1.png)
+
+![V2Ray_2](/content/images/2024/V2Ray/V2Ray_2.png)
+
 
