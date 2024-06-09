@@ -102,11 +102,24 @@ That's it. If your SNI Host(Domain/Subdomain) and V2Ray configurations are corre
 **You can use a software like BurpSuite or Online Tools like subdomain finder to scan the domain and find subdomains that may work well with V2Ray & Tunneling.**
 
 *  Here are some popular SNI Hosts used to bypass data packages:
-WhatsApp - www.whatsapp.com
-Facebook - www.facebook.com
+
+WhatsApp 
+
+            www.whatsapp.com
+            web.whatsapp.com
+
+Facebook
+
+           www.facebook.com
            mbasic.facebook.com
-Youtube  - www.youtube.com
-Zoom.US  - zoom.us
+
+Youtube
+
+            www.youtube.com
+
+Zoom.us 
+
+           zoom.us
            st1.zoom.us
            st2.zoom.us
            st3.zoom.us     
