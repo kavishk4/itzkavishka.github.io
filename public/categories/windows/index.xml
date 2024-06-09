@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on itzKavishka</title>
+    <link>https://itzkavishka.github.io/categories/windows/</link>
+    <description>Recent content in Windows on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://itzkavishka.github.io/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install software using powershell on windows</title>
+      <link>https://itzkavishka.github.io/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+      <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://itzkavishka.github.io/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+      <description>Streamlining Software Installation with PowerShell and Chocolatey Introduction: Installing and managing software on a Windows system can be a time-consuming task, especially when dealing with multiple applications. PowerShell, a powerful scripting language and automation framework, comes to the rescue when it comes to automating repetitive tasks. In this article, we will explore how to simplify software installation on Windows using PowerShell and Chocolatey, a package manager for Windows.
+What is Chocolatey?</description>
+    </item>
+  </channel>
+</rss>

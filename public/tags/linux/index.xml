@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on itzKavishka</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 16:14:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardening Your Debian Os</title>
+      <link>http://localhost:1313/posts/linux/hardening-your-debian-os/</link>
+      <pubDate>Sun, 28 Apr 2024 16:14:30 +0530</pubDate>
+      <guid>http://localhost:1313/posts/linux/hardening-your-debian-os/</guid>
+      <description>Tips to enhance the security of your freshly installed Debian operating system.</description>
+    </item>
+  </channel>
+</rss>

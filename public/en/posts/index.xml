@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on itzKavishka</title>
+    <link>http://kavishka.online/en/posts/</link>
+    <description>Recent content in Posts on itzKavishka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xkavishka@outlook.com (Kavishka Dahanayaka)</managingEditor>
+    <webMaster>xkavishka@outlook.com (Kavishka Dahanayaka)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 07 Jan 2024 13:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://kavishka.online/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Free Game Offers On Epic Store</title>
+        <link>http://kavishka.online/en/posts/general/free-game-offers-on-epic-store/</link>
+        <pubDate>Sun, 07 Jan 2024 13:00:00 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        <atom:modified>Sun, 07 Jan 2024 13:00:00 +0000</atom:modified>
+        <guid>http://kavishka.online/en/posts/general/free-game-offers-on-epic-store/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>how-to</category>
+            
+          
+            
+              <category>gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>General</category>
+            
+          
+            
+              <category>Gaming</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>How To Debug A Hugo Website</title>
+        <link>http://kavishka.online/en/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+        <pubDate>Thu, 04 Jan 2024 13:00:00 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        <atom:modified>Thu, 04 Jan 2024 13:00:00 +0000</atom:modified>
+        <guid>http://kavishka.online/en/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>how-to</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>How to install software using powershell on windows</title>
+        <link>http://kavishka.online/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+        <pubDate>Mon, 01 Jan 2024 11:30:03 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        <atom:modified>Mon, 01 Jan 2024 11:30:03 +0000</atom:modified>
+        <guid>http://kavishka.online/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+        <description>Streamlining Software Installation with PowerShell and Chocolatey Introduction: Installing and managing software on a Windows system can be a time-consuming task, especially when dealing with multiple applications. PowerShell, a powerful scripting language and automation framework, comes to the rescue when it comes to automating repetitive tasks. In this article, we will explore how to simplify software installation on Windows using PowerShell and Chocolatey, a package manager for Windows.
+What is Chocolatey?</description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>windows</category>
+            
+          
+            
+              <category>how-to</category>
+            
+          
+            
+              <category>powershell</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>How to Clean Up a Debian OS</title>
+        <link>http://kavishka.online/en/posts/linux/how-to-clean-up-a-debian-os/</link>
+        <pubDate>Fri, 24 Nov 2023 02:03:32 +0530</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        <atom:modified>Fri, 24 Nov 2023 02:03:32 +0530</atom:modified>
+        <guid>http://kavishka.online/en/posts/linux/how-to-clean-up-a-debian-os/</guid>
+        <description>Introduction: Debian, known for its stability and reliability, can benefit from occasional cleanup to free up disk space and enhance system performance. In this guide, we&amp;rsquo;ll walk through essential steps to tidy up your Debian OS. Update and Upgrade: Keeping your system up-to-date is crucial. Run the following commands to ensure you have the latest software versions:
+1 2 3 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Debian</category>
+            
+          
+            
+              <category>how-to</category>
+            
+          
+            
+              <category>cleanup</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

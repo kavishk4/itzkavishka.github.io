@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on itzKavishka</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 13:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Debug A Hugo Website</title>
+      <link>http://localhost:1313/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+      <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

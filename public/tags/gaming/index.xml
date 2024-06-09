@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaming on itzKavishka</title>
+    <link>https://www.kavishka.online/tags/gaming/</link>
+    <description>Recent content in Gaming on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 13:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.kavishka.online/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Game Offers On Epic Store</title>
+      <link>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
+      <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://itzkavishka.github.io/sitemap.xml

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on itzKavishka</title>
+    <link>https://itzkavishka.github.io/tags/</link>
+    <description>Recent content in Tags on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://itzkavishka.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How-To</title>
+      <link>https://itzkavishka.github.io/tags/how-to/</link>
+      <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://itzkavishka.github.io/tags/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powershell</title>
+      <link>https://itzkavishka.github.io/tags/powershell/</link>
+      <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://itzkavishka.github.io/tags/powershell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://itzkavishka.github.io/tags/windows/</link>
+      <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://itzkavishka.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>https://itzkavishka.github.io/tags/debian/</link>
+      <pubDate>Sun, 24 Dec 2023 02:03:32 +0530</pubDate>
+      <guid>https://itzkavishka.github.io/tags/debian/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

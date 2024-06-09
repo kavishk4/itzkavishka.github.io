@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on itzKavishka</title>
+    <link>http://kavishka.online/en/tags/</link>
+    <description>Recent content in Tags on itzKavishka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xkavishka@outlook.com (Kavishka Dahanayaka)</managingEditor>
+    <webMaster>xkavishka@outlook.com (Kavishka Dahanayaka)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 07 Jan 2024 13:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://kavishka.online/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>gaming</title>
+        <link>http://kavishka.online/en/tags/gaming/</link>
+        <pubDate>Sun, 07 Jan 2024 13:00:00 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/gaming/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>how-to</title>
+        <link>http://kavishka.online/en/tags/how-to/</link>
+        <pubDate>Sun, 07 Jan 2024 13:00:00 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/how-to/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>windows</title>
+        <link>http://kavishka.online/en/tags/windows/</link>
+        <pubDate>Sun, 07 Jan 2024 13:00:00 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/windows/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>powershell</title>
+        <link>http://kavishka.online/en/tags/powershell/</link>
+        <pubDate>Mon, 01 Jan 2024 11:30:03 +0000</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/powershell/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>cleanup</title>
+        <link>http://kavishka.online/en/tags/cleanup/</link>
+        <pubDate>Fri, 24 Nov 2023 02:03:32 +0530</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/cleanup/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Debian</title>
+        <link>http://kavishka.online/en/tags/debian/</link>
+        <pubDate>Fri, 24 Nov 2023 02:03:32 +0530</pubDate>
+        <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
+        
+        <guid>http://kavishka.online/en/tags/debian/</guid>
+        <description></description>
+        
+        <dc:creator>Kavishka Dahanayaka</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
