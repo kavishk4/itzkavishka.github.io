@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/general/</loc>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-28T16:14:30+05:30</lastmod>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-28T16:14:30+05:30</lastmod>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</loc>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows/</loc>
+    <lastmod>2024-06-09T22:09:40+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-01-04T11:30:03+00:00</lastmod>
@@ -18,12 +30,6 @@
     <lastmod>2024-01-04T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/powershell/</loc>
-    <lastmod>2024-01-04T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-04T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2024-01-04T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/windows/</loc>

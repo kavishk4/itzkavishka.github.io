@@ -42,7 +42,7 @@ editPost:
 Installing and managing software on a Windows system can be a time-consuming task, especially when dealing with multiple applications. PowerShell, a powerful scripting language and automation framework, comes to the rescue when it comes to automating repetitive tasks. In this article, we will explore how to simplify software installation on Windows using PowerShell and Chocolatey, a package manager for Windows.
 
 
-![Image 1](https://chocolatey.org/assets/images/global-shared/logo-square.svg)
+![Chocolatey Image](https://chocolatey.org/assets/images/global-shared/logo-square.svg)
 
 
 ### What is Chocolatey?

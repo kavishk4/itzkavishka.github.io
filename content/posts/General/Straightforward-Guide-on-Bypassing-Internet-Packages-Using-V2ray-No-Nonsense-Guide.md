@@ -1,10 +1,10 @@
 ---
-title: "Straightforward Guide on Bypassing Internet Packages Using V2ray No Nonsense Guide"
+title: "Straightforward Guide on Bypassing Internet Packages Using V2ray : No Nonsense Guide"
 date: 2024-06-09T22:09:40+05:30
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["General","Linux","Windows","Gaming"]
+tags: ["General","Windows"]
 author: "Kavishka Dahanayaka"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -31,3 +31,20 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Today, We're Going to Talk About Utilizing V2Ray to Overcome ISP Data Package Restrictions, Especially for **Zoom Conferencing Package**.
+
+**What Is V2Ray?**
+ Well you could say V2Ray is like a **Regular VPN on steroids** because it offers more flexibility, features and sh!t.
+
+## Prerequisites
+Before we begin, makesure you have these following things in line:
+
+- A Windows computer with administrative access
+- Basic knowledge of command-line interfaces
+- A V2ray server (self-hosted or a subscription from a service provider) -- There are free services like [FastSSH](www.fastssh.com),[VPN Jantit](www.vpnjantit.com)
+- V2ray client software for Windows
+
+ ### How To Install V2Ray On Your Windows PC ? 
+* First Head towards 
+
