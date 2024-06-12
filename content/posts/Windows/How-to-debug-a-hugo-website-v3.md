@@ -10,8 +10,9 @@ TocOpen: false
 hidemeta: false
 comments: true
 description: "Desc Text."
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
+ShowShareButtons: true
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

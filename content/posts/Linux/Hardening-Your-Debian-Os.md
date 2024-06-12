@@ -14,6 +14,7 @@ comments: true
 description: "Tips to enhance the security of your freshly installed Debian operating system."
 disableHLJS: false # to disable highlightjs
 disableShare: false
+ShowShareButtons: true
 hideSummary: false
 searchHidden: false
 ShowBreadCrumbs: true

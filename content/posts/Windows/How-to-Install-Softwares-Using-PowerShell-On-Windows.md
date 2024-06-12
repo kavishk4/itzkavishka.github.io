@@ -13,9 +13,9 @@ draft: false
 hidemeta: false
 comments: true
 description: ""
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
+ShowShareButtons: true
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
