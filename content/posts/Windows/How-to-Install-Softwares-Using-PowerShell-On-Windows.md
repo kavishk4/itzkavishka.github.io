@@ -26,7 +26,7 @@ ShowCodeCopyButtons: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/static/content_images/2024/choco.png" # image path/url
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKIdo65S_5dsgcWgW0RhH5KtyBO-H9lM-FIn0OiT66GqJsQhRmZdgnfk3y9B0GTfkm5OJm3_Tem5_f1zpB_IeVRsGEBjgnpfx2GhaLky4mqQNI6yJQEPe9zm-xcv7-pq6Hg39Pqpc6OOzCeSawF78Fhx-1TjyO6-Xp9eX3roAz9YnAhlVmbfdSuANS_a87/s1200/choco.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: true # when using page bundles set this to true
