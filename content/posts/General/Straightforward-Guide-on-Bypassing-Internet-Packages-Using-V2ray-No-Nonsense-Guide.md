@@ -21,10 +21,10 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
-    image: "" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJHOweFCz1CkHiT1H6oTqTTFduo7KQO9ynhiSqGKvfiMK0-5bqX_lIuivwjGkksQUi_QcGJv4kxtj01VaaXbqZPl4aQ3CQmtfHZws-VyBlwE4nvfh3s7zAelgvJEDGUqHlSPM5g1kHHeits9Qo9j61_qTuLDX1gPleFwP4dGyOoPvM46BqcAbgU4EmM9R6/s1200/v2ray-core.png" # image path/url
+    alt: "V2Ray Repo Image" # alt text
+    caption: "" # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/itzkavishka/itzkavishka.github.io/tree/main/content"
