@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on itzKavishka</title>
-    <link>http://localhost:1313/tags/windows/</link>
+    <link>https://itzkavishka.github.io/tags/windows/</link>
     <description>Recent content in Windows on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 22:09:40 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzkavishka.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Straightforward Guide on Bypassing Internet Packages Using V2ray : No Nonsense Guide</title>
-      <link>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</link>
+      <link>https://itzkavishka.github.io/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</link>
       <pubDate>Sun, 09 Jun 2024 22:09:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</guid>
-      <description>Today, We&amp;rsquo;re Going to Talk About Utilizing V2Ray to Overcome ISP Data Package Restrictions, Especially for Zoom Conferencing Package.
-What Is V2Ray? Well you could say V2Ray is like a Regular VPN on steroids because it offers more flexibility, features and sh!t.
+      <guid>https://itzkavishka.github.io/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</guid>
+      <description>Here&amp;rsquo;s how to Utilizing V2Ray to overcome ISP Data Package Restrictions, Especially for Zoom Conferencing Package.
+What Is V2Ray ? Well you could say V2Ray is like a Regular VPN on steroids, &amp;ldquo;in a way&amp;rdquo; because it offers more flexibility, features and sh!t.
 Prerequisites Before we begin, makesure you have these following things in line:
-A Windows computer with administrative access Basic knowledge of command-line interfaces A V2ray server (self-hosted or a subscription from a service provider) &amp;ndash; There are free services like FastSSH, VPN Jantit V2ray client software for Windows How To Install V2Ray On Your Windows PC ?</description>
+A Windows computer with administrative access A V2ray server (self-hosted or a subscription from a service provider) &amp;ndash; There are free services like FastSSH, VPN Jantit V2ray client software for Windows How To Install V2Ray On Your Windows PC ?</description>
     </item>
     <item>
       <title>How to install software using powershell on windows</title>
-      <link>http://localhost:1313/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+      <link>https://itzkavishka.github.io/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
       <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+      <guid>https://itzkavishka.github.io/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
       <description>Streamlining Software Installation with PowerShell and Chocolatey Introduction: Installing and managing software on a Windows system can be a time-consuming task, especially when dealing with multiple applications. PowerShell, a powerful scripting language and automation framework, comes to the rescue when it comes to automating repetitive tasks. In this article, we will explore how to simplify software installation on Windows using PowerShell and Chocolatey, a package manager for Windows.
 What is Chocolatey?</description>
     </item>
