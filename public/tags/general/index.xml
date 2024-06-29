@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on itzKavishka</title>
-    <link>https://itzkavishka.github.io/tags/general/</link>
+    <link>http://localhost:1313/tags/general/</link>
     <description>Recent content in General on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://itzkavishka.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 22:09:40 +0530</lastBuildDate>
-    <atom:link href="https://itzkavishka.github.io/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Straightforward Guide on Bypassing Internet Packages Using V2ray : No Nonsense Guide</title>
-      <link>https://itzkavishka.github.io/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</link>
+      <link>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</link>
       <pubDate>Sun, 09 Jun 2024 22:09:40 +0530</pubDate>
-      <guid>https://itzkavishka.github.io/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</guid>
+      <guid>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</guid>
       <description>Here&amp;rsquo;s how to Utilizing V2Ray to overcome ISP Data Package Restrictions, Especially for Zoom Conferencing Package.
 What Is V2Ray ? Well you could say V2Ray is like a Regular VPN on steroids, &amp;ldquo;in a way&amp;rdquo; because it offers more flexibility, features and sh!t.
 Prerequisites Before we begin, makesure you have these following things in line:

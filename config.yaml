@@ -59,13 +59,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: itzkavishka
+    subtitle: "Just a blog :)"
+    imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
+    imageWidth: 200 
+    imageHeight: 200
+    imageTitle: github profile pic
     buttons:
       - name: Posts
         url: posts
@@ -82,10 +82,8 @@ params:
       url: "https://twitter.com/xkavishka"
     - name: github
       url: "https://github.com/itzkavishka"
-    - name: twitter
-      url: "https://x.com/xkavishka"
     - name: youtube
-      url: "https://youtube.com/@itzkavishka"
+      url: "https://youtube.com/@kavishk4"
 
   analytics:
     google:
